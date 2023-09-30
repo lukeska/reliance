@@ -3,31 +3,33 @@
 		<h2 class="tracking-[3px] text-gray-400 uppercase">
 			Our best partnership
 		</h2>
-		<div class="flex items-center justify-between mt-4 space-x-5 md:mt-10">
+		<div
+			class="grid grid-cols-3 gap-6 mt-4 lg:gap-0 lg:items-center lg:justify-between lg:space-x-5 lg:flex lg:mt-10"
+		>
 			<img
-				class="flex-1 w-1/5 max-w-max"
 				src="/visa-logo.svg"
 				alt="Visa"
+				class="mx-auto lg:flex-1 lg:mx-0 xl:max-w-max"
 			/>
 			<img
-				class="flex-1 w-1/5 max-w-max"
 				src="/forbes-logo.svg"
 				alt="Forbes"
+				class="mx-auto lg:flex-1 lg:mx-0 xl:max-w-max"
 			/>
 			<img
-				class="flex-1 w-1/5 max-w-max"
 				src="/paypal-logo.svg"
 				alt="Paypal"
+				class="mx-auto lg:flex-1 lg:mx-0 xl:max-w-max"
 			/>
 			<img
-				class="flex-1 w-1/5 max-w-max"
 				src="/gojek-logo.svg"
 				alt="Gojek"
+				class="mx-auto lg:flex-1 lg:mx-0 xl:max-w-max"
 			/>
 			<img
-				class="flex-1 w-1/5 max-w-max"
 				src="/wise-logo.svg"
 				alt="Wise"
+				class="mx-auto lg:flex-1 lg:mx-0 xl:max-w-max"
 			/>
 		</div>
 	</div>
