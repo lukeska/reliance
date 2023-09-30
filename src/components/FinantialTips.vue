@@ -1,3 +1,7 @@
+<script setup>
+import MockCreditCard from "./MockCreditCard.vue";
+</script>
+
 <template>
 	<div
 		class="lg:flex px-4 md:px-14 xl:px-[120px] bg-neutral-100 pt-10 lg:pt-28 pb-80"
@@ -6,9 +10,9 @@
 			<div
 				class="absolute w-64 h-64 bg-gray-200 left-10 md:left-40 top-12 rounded-3xl"
 			></div>
-			<div
-				class="mx-auto relative lg:absolute top-0 left-0 w-[327px] h-[251px] bg-purplemedium rounded-3xl"
-			></div>
+			<div class="relative top-0 left-0 mx-auto lg:absolute">
+				<MockCreditCard />
+			</div>
 			<div
 				class="absolute shadow flex flex-col items-center py-5 bg-white left-20 md:left-[350px] top-48 rounded-xl px-7"
 			>

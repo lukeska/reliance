@@ -17,7 +17,7 @@
 			</div>
 			<div class="relative mt-10 md:w-1/2 md:mt-0">
 				<img
-					src="../assets/spend-less.png"
+					src="/spend-less.png"
 					alt=""
 					class="rounded-[32px] ml-auto"
 				/>
@@ -49,7 +49,7 @@
 		</div>
 		<div class="relative px-4 md:px-14 xl:px-[120px]">
 			<img
-				src="../assets/safe-to-spend.png"
+				src="/safe-to-spend.png"
 				alt=""
 				class="hidden lg:block rounded-[32px]"
 			/>
@@ -69,7 +69,7 @@
 				class="lg:w-[320px] xl:w-[506px] lg:absolute lg:right-[120px] lg:top-[550px] xl:top-40"
 			>
 				<img
-					src="../assets/mockup.png"
+					src="/mockup.png"
 					alt=""
 					class="lg:mb-10 xl:mb-24 rounded-t-[32px] rounded-bl-[32px] shadow-md my-10 lg:mt-0 mx-auto"
 				/>

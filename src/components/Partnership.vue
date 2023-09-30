@@ -6,27 +6,27 @@
 		<div class="flex items-center justify-between mt-4 space-x-5 md:mt-10">
 			<img
 				class="flex-1 w-1/5 max-w-max"
-				src="../assets/visa-logo.svg"
+				src="/visa-logo.svg"
 				alt="Visa"
 			/>
 			<img
 				class="flex-1 w-1/5 max-w-max"
-				src="../assets/forbes-logo.svg"
+				src="/forbes-logo.svg"
 				alt="Forbes"
 			/>
 			<img
 				class="flex-1 w-1/5 max-w-max"
-				src="../assets/paypal-logo.svg"
+				src="/paypal-logo.svg"
 				alt="Paypal"
 			/>
 			<img
 				class="flex-1 w-1/5 max-w-max"
-				src="../assets/gojek-logo.svg"
+				src="/gojek-logo.svg"
 				alt="Gojek"
 			/>
 			<img
 				class="flex-1 w-1/5 max-w-max"
-				src="../assets/wise-logo.svg"
+				src="/wise-logo.svg"
 				alt="Wise"
 			/>
 		</div>

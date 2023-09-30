@@ -6,7 +6,8 @@ export default {
 	theme: {
 		extend: {
 			backgroundImage: {
-				hero: "url('/src/assets/hero2.png')",
+				hero: "url('/hero2.png')",
+				creditcard: "url('/looper.svg')",
 			},
 			fontFamily: {
 				sans: ["Inter", ...defaultTheme.fontFamily.sans],

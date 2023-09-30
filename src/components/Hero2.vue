@@ -9,10 +9,6 @@
 			Time-saving way to keep on track to saving your money, easy, and
 			efficient. All-in-one app, you can use all features on mobile app!
 		</p>
-		<a
-			href="#"
-			class="inline-block py-5 font-bold text-white rounded-xl px-9 bg-brand"
-			>Download App</a
-		>
+		<PrimaryCTA>Download App</PrimaryCTA>
 	</div>
 </template>

@@ -1,3 +1,4 @@
+import PrimaryCTA from './PrimaryCTA.vue';
 <template>
 	<div
 		class="block md:flex md:bg-gradient-to-r from-white to-[#E9E9E9] from-50% to-50% md:-mt-32 pt-10 md:pt-32 items-center"
@@ -17,14 +18,10 @@
 				Get managed your financial plan for the better days in the
 				future. Let’s start saving today!
 			</p>
-			<a
-				href="#"
-				class="inline-block py-5 font-bold text-white rounded-xl px-9 bg-brand"
-				>Start Saving Today</a
-			>
+			<PrimaryCTA>Start Saving Today</PrimaryCTA>
 		</div>
 		<div class="justify-end hidden md:flex md:w-1/2">
-			<img src="../assets/hero.png" alt="" />
+			<img src="/hero.png" alt="" />
 		</div>
 	</div>
 </template>
