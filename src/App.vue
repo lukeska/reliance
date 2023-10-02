@@ -10,7 +10,7 @@ import Footer from "./components/Footer.vue";
 </script>
 
 <template>
-	<div class="container mx-auto border">
+	<div class="container mx-auto">
 		<Header />
 
 		<Hero />
