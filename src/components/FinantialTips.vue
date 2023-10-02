@@ -31,9 +31,7 @@ import MockCreditCard from "./MockCreditCard.vue";
 			>
 				Finantial tips
 			</div>
-			<h2
-				class="text-4xl 2xl:text-5xl font-bold leading-snug 2xl:leading-[65px]"
-			>
+			<h2 class="text-4xl 2xl:text-5xl font-bold 2xl:leading-[65px]">
 				The Best Money Saving Tips You Can Start Right Now
 			</h2>
 			<p class="my-5 leading-relaxed text-gray-600 lg:pt-6 lg:pb-10">

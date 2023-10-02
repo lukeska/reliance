@@ -4,7 +4,7 @@ import Hero from "./components/Hero.vue";
 import Partnership from "./components/Partnership.vue";
 import Info from "./components/Info.vue";
 import FinantialTips from "./components/FinantialTips.vue";
-import Testimonials from "./components/Testimonials.vue";
+import TestimonialList from "./components/TestimonialList.vue";
 import Hero2 from "./components/Hero2.vue";
 import Footer from "./components/Footer.vue";
 </script>
@@ -21,7 +21,7 @@ import Footer from "./components/Footer.vue";
 
 		<FinantialTips />
 
-		<Testimonials />
+		<TestimonialList />
 
 		<Hero2 />
 

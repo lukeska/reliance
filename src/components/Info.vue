@@ -53,7 +53,7 @@
 				alt=""
 				class="hidden lg:block rounded-[32px]"
 			/>
-			<div class="max-w-lg mt-32 sm:mt-10 md:mt-20">
+			<div class="max-w-lg mt-10 md:mt-20">
 				<h2 class="text-4xl font-bold lg:text-7xl">
 					See what's safe to spend
 				</h2>

@@ -3,7 +3,7 @@ import PrimaryCTA from './PrimaryCTA.vue';
 	<div
 		class="block md:flex md:bg-gradient-to-r from-white to-[#E9E9E9] from-50% to-50% md:-mt-32 pt-10 md:pt-32 items-center"
 	>
-		<div class="md:w-1/2 px-4 md:pl-14 lg:pl-[120px] mb-4">
+		<div class="md:w-1/2 px-4 md:pl-14 lg:pl-[120px] mb-8">
 			<div
 				class="relative hidden mb-4 text-sm font-semibold tracking-widest text-gray-300 uppercase md:block pl-9 before:block before:absolute before:top-1/2 before:left-0 before:bg-gray-300 before:h-px before:w-6"
 			>
